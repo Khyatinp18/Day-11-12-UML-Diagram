@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 11-12 UML Diagram", "Day 11-12 UML Diagram\Day 11-12 UML Diagram.csproj", "{57C447D2-13B8-41C3-B9D7-C6934FB66C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C447D2-13B8-41C3-B9D7-C6934FB66C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C447D2-13B8-41C3-B9D7-C6934FB66C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C447D2-13B8-41C3-B9D7-C6934FB66C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C447D2-13B8-41C3-B9D7-C6934FB66C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0461EF1B-455D-4583-A6D5-76242E4E1194}
+	EndGlobalSection
+EndGlobal
